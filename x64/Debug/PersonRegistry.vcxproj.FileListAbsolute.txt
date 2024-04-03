@@ -1,0 +1,2 @@
+C:\Users\arn\source\repos\PersonRegistry\x64\Debug\PersonRegistry.exe
+C:\Users\arn\source\repos\Lab3PersonRegistry\x64\Debug\PersonRegistry.exe
